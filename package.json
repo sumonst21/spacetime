@@ -47,7 +47,7 @@
     "rollup-plugin-json": "^4.0.0",
     "rollup-plugin-node-resolve": "5.2.0",
     "rollup-plugin-terser": "7.0.0",
-    "shelljs": "0.8.4",
+    "shelljs": "0.8.5",
     "tap-dancer": "0.2.0",
     "tape": "5.0.1",
     "timekeeper": "2.2.0"
